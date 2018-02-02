@@ -1,0 +1,9 @@
+Building Blockwallstreetcoin
+
+See doc/readme-qt.rst for instructions on building Blockwallstreetcoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Blockwallstreetcoin.
+
+See doc/build-*.txt for instructions on building blockwallstreetcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Blockwallstreetcoin.
